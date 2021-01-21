@@ -6,4 +6,5 @@
 | :--: | :--------------------------------: | :----------------------------------------------------: | :--------------------------------------------: |
 |  1   |              Two Sum               |               [python](src/1-two-sum.py)               | [blog](https://sssis.me/leetcode-two-sum.html) |
 |  83  | Remove Duplicates from Sorted List | [python](src/83-remove-duplicates-from-sorted-list.py) |                                                |
+| 206  |        Reverse Linked List         |        [python](src/206-reverse-linked-list.py)        |                                                |
 
